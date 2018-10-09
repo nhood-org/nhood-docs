@@ -2,7 +2,7 @@
 
 ## Problem
 
-`nhood` (for neighborhood) is an engine maintains a collection of location pointers all around the world and provides fast resolution of latest and closest neighbors to the given input pointer.
+`nhood` (for neighborhood) is an engine that maintains a collection of location pointers all around the world and provides fast resolution of latest and closest neighbors to the given input pointer.
 
 ## Goal
 
