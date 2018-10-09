@@ -16,7 +16,7 @@ The engine implementation if focused on:
 
 System architecture is based on containerized microservices principles. All of the components should be considered as a separate services that may consist of single or multiple instances of application container. Inter-service communication is based on an event bus. Service discovery, load balancing, container life cycle management is supported by Kubernetes. 
 
-[architecture]: ./images/nhood-architecture.png "nhood architecture"
+![alt architecture](./images/nhood-architecture.png)
 
 ## Services
 
