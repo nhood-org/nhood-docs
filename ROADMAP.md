@@ -4,40 +4,40 @@
 
 Implementation of Location Service
 
-- NH001: Implement LocationEntry data model
-- NH002: Implement basic LocationEntry CRUD functionalities with REST controller
-- NH003: Setup CI/CD for Location Service
+- [x] NH001: Implement LocationEntry data model
+- [x] NH002: Implement basic LocationEntry CRUD functionalities with REST controller
+- [@] NH003: Setup CI/CD for Location Service
 
 ## Phase 2: 
 
 Setup Location DB
 
-- NH004: Setup Location DB
-- NH005: Setup CI/CD for Location DB
+- [ ] NH004: Setup Location DB
+- [ ] NH005: Setup CI/CD for Location DB
 
 ## Phase 2: 
 
 Message Bus
 
-- NH006: Implement event handling for LocationEntry creation
-- NH007: Setup message bus
-- NH008: Integrate Location Service with message bus
+- [ ] NH006: Implement event handling for LocationEntry creation
+- [ ] NH007: Setup message bus
+- [ ] NH008: Integrate Location Service with message bus
 
 ## Phase 3:
 
 Location Orchestration Service and location registration
 
-- NH009: Implement location registration within Location Orchestration Service
-- NH010: Setup CI/CD for Location Orchestration Service
+- [ ] NH009: Implement location registration within Location Orchestration Service
+- [ ] NH010: Setup CI/CD for Location Orchestration Service
 
 ## Phase 4:
 
 Api Gateway
 
-- NH011: Create Api Gateway service
-- NH012: Expose location registration endpoint
-- NH013: Expose location CRUD endpoints
-- NH014: Setup CI/CD for Api Gateway service
+- [ ] NH011: Create Api Gateway service
+- [ ] NH012: Expose location registration endpoint
+- [ ] NH013: Expose location CRUD endpoints
+- [ ] NH014: Setup CI/CD for Api Gateway service
 
 ## Phase 5
 
