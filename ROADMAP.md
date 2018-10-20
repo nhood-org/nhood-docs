@@ -6,7 +6,7 @@ Implementation of Location Service
 
 - [x] NH001: Implement LocationEntry data model
 - [x] NH002: Implement basic LocationEntry CRUD functionalities with REST controller
-- [@] NH003: Setup CI/CD for Location Service
+- [ ] NH003: Setup CI/CD for Location Service
 
 ## Phase 2: 
 
