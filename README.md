@@ -33,7 +33,7 @@ System architecture is based on containerized microservices principles. All of t
 
     Simple CRUD data abstraction service for data url entities.
     
-    Repository: https://github.com/nhood-org/nhood-location-svc
+    Repository: https://github.com/nhood-org/nhood-data-url-svc
 
 - `Data Matrix Service`: 
 
