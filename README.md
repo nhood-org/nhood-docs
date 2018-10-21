@@ -33,7 +33,7 @@ System architecture is based on containerized microservices principles. All of t
 
     Simple CRUD data abstraction service for data url entities.
     
-    Repository: https://github.com/nhood-org/nhood-data-url-svc
+    Repository: https://github.com/nhood-org/nhood-data-url-svc [![CircleCI](https://circleci.com/gh/nhood-org/nhood-data-url-svc.svg?style=shield)](https://circleci.com/gh/nhood-org/nhood-data-url-svc)
 
 - `Data Matrix Service`: 
 
@@ -87,8 +87,8 @@ System architecture is based on containerized microservices principles. All of t
 
 Other Repositories:
 
-- Parent BOM: https://github.com/nhood-org/nhood-parent-bom
-- Parent Service BOM: https://github.com/nhood-org/nhood-parent-service-bom
+- Parent BOM: https://github.com/nhood-org/nhood-parent-bom [![CircleCI](https://circleci.com/gh/nhood-org/nhood-parent-bom.svg?style=shield)](https://circleci.com/gh/nhood-org/nhood-parent-bom)
+- Parent Service BOM: https://github.com/nhood-org/nhood-parent-service-bom [![CircleCI](https://circleci.com/gh/nhood-org/nhood-parent-service-bom.svg?style=shield)](https://circleci.com/gh/nhood-org/nhood-parent-service-bom)
 
 ## Technology
 
