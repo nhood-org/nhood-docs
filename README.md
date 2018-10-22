@@ -37,7 +37,7 @@ System architecture is based on containerized microservices principles. All of t
    
    Application: https://nhood-data-url-svc.herokuapp.com/swagger-ui.html
 
-   [![CircleCI](https://circleci.com/gh/nhood-org/nhood-data-url-svc.svg?style=shield)](https://circleci.com/gh/nhood-org/nhood-data-url-svc) 
+   [![CircleCI](https://circleci.com/gh/nhood-org/nhood-data-url-svc.svg?style=shield)](https://circleci.com/gh/nhood-org/nhood-data-url-svc) [![Heroku](http://heroku-badge.herokuapp.com/?app=app=nhood-data-url-svc&style=flat&svg=1)](https://dashboard.heroku.com/apps/nhood-data-url-svc)
 
 - `Data Matrix Service`: 
 
