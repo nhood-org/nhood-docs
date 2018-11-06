@@ -105,12 +105,21 @@ Other Repositories:
 
 Core parts of implementation are based on:
 
-- Spring Boot 2.x stack
-- Spring Framework 5, Spring Cloud, Project React, RSocket
+- Java 11
+- Spring Boot 2.1.x stack
+- Spring Framework 5, Spring Cloud, Project Reactor, RSocket
 - Couchbase, R2DBC
 - Docker, Docker Compose, Docker Swarm/Kubernetes
 - JUnit5, Spock
 
+## Contribution
+
+Would you like to contribute to `nhood` project? Feel free to have a look [here](./CONTRIBUTING.md).
+
 ## Road map
 
 Road map may be found [here](./ROADMAP.md).
+
+## Project board
+
+Project board may be found [here](https://github.com/orgs/nhood-org/projects/1?fullscreen=true).
