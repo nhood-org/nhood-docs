@@ -4,6 +4,7 @@
 
 Implementation of Data Url Service
 
+- [ ] First project configuration
 - [x] Implement DataUrl data model
 - [x] Implement basic DataUrl CRUD functionalities with REST controller
 - [x] Setup CI/CD for Data Url Service
