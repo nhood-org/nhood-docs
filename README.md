@@ -37,7 +37,7 @@ System architecture is based on containerized microservices principles. All of t
    
    Application: https://nhood-data-url-svc.herokuapp.com/swagger-ui.html
 
-   [![CircleCI](https://circleci.com/gh/nhood-org/nhood-data-url-svc.svg?style=shield)](https://circleci.com/gh/nhood-org/nhood-data-url-svc) [![Heroku](http://heroku-shields.herokuapp.com/nhood-data-url-svc)](https://dashboard.heroku.com/apps/nhood-data-url-svc)
+   [![CircleCI](https://circleci.com/gh/nhood-org/nhood-data-url-svc.svg?style=shield)](https://circleci.com/gh/nhood-org/nhood-data-url-svc) [![Heroku](http://heroku-shields.herokuapp.com/nhood-data-url-svc)](https://dashboard.heroku.com/apps/nhood-data-url-svc) [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 - `Data Matrix Service`: 
 
@@ -93,11 +93,11 @@ Other Repositories:
 
 - Parent BOM: https://github.com/nhood-org/nhood-parent-bom
 
-    [![CircleCI](https://circleci.com/gh/nhood-org/nhood-parent-bom.svg?style=shield)](https://circleci.com/gh/nhood-org/nhood-parent-bom) 
+    [![CircleCI](https://circleci.com/gh/nhood-org/nhood-parent-bom.svg?style=shield)](https://circleci.com/gh/nhood-org/nhood-parent-bom) [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
     
 - Parent Service BOM: https://github.com/nhood-org/nhood-parent-service-bom
 
-    [![CircleCI](https://circleci.com/gh/nhood-org/nhood-parent-service-bom.svg?style=shield)](https://circleci.com/gh/nhood-org/nhood-parent-service-bom) 
+    [![CircleCI](https://circleci.com/gh/nhood-org/nhood-parent-service-bom.svg?style=shield)](https://circleci.com/gh/nhood-org/nhood-parent-service-bom) [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) 
 
 - Maven repository: https://github.com/nhood-org/nhood-repository
 
@@ -111,6 +111,11 @@ Core parts of implementation are based on:
 - Couchbase, R2DBC
 - Docker, Docker Compose, Docker Swarm/Kubernetes
 - JUnit5, Spock
+
+## License
+
+n-hood is released under the MIT license:
+- https://opensource.org/licenses/MIT
 
 ## Contribution
 
