@@ -114,7 +114,7 @@ Core parts of implementation are based on:
 
 ## License
 
-n-hood is released under the MIT license:
+nhood is released under the MIT license:
 - https://opensource.org/licenses/MIT
 
 ## Contribution
