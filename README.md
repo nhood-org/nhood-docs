@@ -112,11 +112,6 @@ Core parts of implementation are based on:
 - Docker, Docker Compose, Docker Swarm/Kubernetes
 - JUnit5, Spock
 
-## License
-
-nhood is released under the MIT license:
-- https://opensource.org/licenses/MIT
-
 ## Contribution
 
 Would you like to contribute to `nhood` project? Feel free to have a look [here](./CONTRIBUTING.md).
@@ -128,3 +123,8 @@ Road map may be found [here](./ROADMAP.md).
 ## Project board
 
 Project board may be found [here](https://github.com/orgs/nhood-org/projects/1?fullscreen=true).
+
+## License
+
+All nhood components and documentation is released under the MIT license:
+- https://opensource.org/licenses/MIT
