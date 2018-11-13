@@ -1,5 +1,9 @@
 # nhood Road map
 
+## Current goal
+
+At the end of the road presented here a basic, simplified and even trivial implementation of core components is covered. Basic project configurations, documentation and what's the most important performance and unit testing are implemented. Such stage may be considered as a baseline for further sophisticated implementation of the engine. This baseline will help in proper asessment of improvement achieved.
+
 ## Phase 1: 
 
 Implementation of Data Url Service
