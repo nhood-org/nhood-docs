@@ -101,6 +101,10 @@ Other Repositories:
 
 - Maven repository: https://github.com/nhood-org/nhood-repository
 
+- Docker configuration: https://github.com/nhood-org/nhood-docker-integraton
+
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) 
+
 ## Technology
 
 Core parts of implementation are based on:
