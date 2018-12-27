@@ -105,6 +105,11 @@ Other Repositories:
 
     [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) 
 
+- Messaging testing tool: https://github.com/nhood-org/nhood-messaging-testing-tool
+    
+    [![CircleCI](https://circleci.com/gh/nhood-org/nhood-messaging-testing-tool.svg?style=shield)](https://circleci.com/gh/nhood-org/nhood-messaging-testing-tool) 
+    [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) 
+
 ## Technology
 
 Core parts of implementation are based on:
