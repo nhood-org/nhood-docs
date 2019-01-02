@@ -61,6 +61,18 @@ Feel free to follow list of [Open issues](https://github.com/nhood-org/nhood-doc
 
 * When opening a pull request please follow the [Code of Conduct](#Code-of-Conduct).
 
+### By implementing minor changes
+
+Minor changes like typos, docu updates may be implemented without opening an issue.
+
+* Simply create a pull request with clear description of the change
+
+* Assign at least one of the [Code Owners](./OWNERS.md) as reviewer. 
+
+* Feel free to assign other contributors as reviewers as well.
+
+* When opening a pull request please follow the [Code of Conduct](#Code-of-Conduct).
+
 ## Code of Conduct
 
 When reporting and issue, taking part in issue or pull request discussion please:
