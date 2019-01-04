@@ -24,19 +24,20 @@ Data Orchestration Service and data registration
 
 Message Bus
 
-- [ ] Implement event consumption for DataUrl creation in Data Url Service
+- [x] Implement event consumption for DataUrl creation in Data Url Service
 - [ ] Implement event publishing for DataUrl creation in Data Orchestration Service
-- [ ] Setup message bus
+- [x] Setup message bus
 - [ ] Integrate Data Url Service and Data Orchestration Service with message bus
+- [x] Implement messaging testing tool
 
 ## Phase 4:
 
 Api Gateway
 
-- [ ] Create Api Gateway service
+- [x] Create Api Gateway service
 - [ ] Expose data registration endpoint
-- [ ] Expose data url CRUD endpoints
-- [ ] Setup CI/CD for Api Gateway service
+- [x] Expose data url CRUD endpoints
+- [x] Setup CI/CD for Api Gateway service
 
 ## Phase 5
 
