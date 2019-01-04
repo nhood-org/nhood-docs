@@ -34,10 +34,8 @@ System architecture is based on containerized microservices principles. All of t
     Simple CRUD data abstraction service for data url entities.
     
    Repository: https://github.com/nhood-org/nhood-data-url-svc 
-   
-   Application: https://nhood-data-url-svc.herokuapp.com/swagger-ui.html
 
-   [![CircleCI](https://circleci.com/gh/nhood-org/nhood-data-url-svc.svg?style=shield)](https://circleci.com/gh/nhood-org/nhood-data-url-svc) [![Heroku](http://heroku-shields.herokuapp.com/nhood-data-url-svc)](https://dashboard.heroku.com/apps/nhood-data-url-svc) [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+   [![CircleCI](https://circleci.com/gh/nhood-org/nhood-data-url-svc.svg?style=shield)](https://circleci.com/gh/nhood-org/nhood-data-url-svc) [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 - `Data Matrix Service`: 
 
@@ -60,6 +58,8 @@ System architecture is based on containerized microservices principles. All of t
     Frontal gateway for web application
 
     Repository: https://github.com/nhood-org/nhoog-api-gateway
+
+   [![CircleCI](https://circleci.com/gh/nhood-org/nhood-api-gateway.svg?style=shield)](https://circleci.com/gh/nhood-org/nhood-api-gateway) [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 - `Admin Api Gateway`: 
 
@@ -101,7 +101,7 @@ Other Repositories:
 
 - Maven repository: https://github.com/nhood-org/nhood-repository
 
-- Docker configuration: https://github.com/nhood-org/nhood-docker-integraton
+- Docker integration: https://github.com/nhood-org/nhood-docker-integraton
 
     [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) 
 
