@@ -46,6 +46,8 @@ System architecture is based on containerized microservices principles. All of t
 - `Data Orchestrations Service`: 
 
     Service for orchestration of data registration and data resolution.
+    
+   Repository: https://github.com/nhood-org/nhood-data-orch-svc 
 
 - `Data Finder`: 
 
@@ -101,7 +103,7 @@ Other Repositories:
 
 - Maven repository: https://github.com/nhood-org/nhood-repository
 
-- Docker integration: https://github.com/nhood-org/nhood-docker-integraton
+- Docker integration: https://github.com/nhood-org/nhood-docker-integration
 
     [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) 
 
