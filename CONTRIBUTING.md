@@ -28,7 +28,7 @@ Did you find a bug? Is there a feature you want in nhood-engine? Simply create a
 
 Feel free to follow list of [Open issues](https://github.com/nhood-org/nhood-docs/issues). Id there is an issue you are able to implement:
 
-* Assign yourself to the open issue that is labeled with `help-wanted` and `next-step` or `bug`.
+* Assign yourself to the open issue that is labeled with `help-wanted` and `read-for-development` or `bug`.
 
 * Assign yourself to the issue only when sure you have time and you know how to implement it. If issue requires additional clarifications, feel free to open a discussion.
 
