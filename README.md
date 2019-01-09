@@ -47,9 +47,9 @@ System architecture is based on containerized microservices principles. All of t
 
     Service for orchestration of data registration and data resolution.
     
-   Repository: https://github.com/nhood-org/nhood-data-orch-svc 
+   Repository: https://github.com/nhood-org/nhood-data-orchestration-svc 
    
-   [![CircleCI](https://circleci.com/gh/nhood-org/nhood-data-orch-svc.svg?style=shield)](https://circleci.com/gh/nhood-org/nhood-data-orch-svc) [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+   [![CircleCI](https://circleci.com/gh/nhood-org/nhood-data-orchestration-svc.svg?style=shield)](https://circleci.com/gh/nhood-org/nhood-data-orchestration-svc) [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 - `Data Finder`: 
 
