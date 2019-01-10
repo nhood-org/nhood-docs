@@ -35,7 +35,7 @@ System architecture is based on containerized microservices principles. All of t
     
    Repository: https://github.com/nhood-org/nhood-data-url-svc 
 
-   [![CircleCI](https://circleci.com/gh/nhood-org/nhood-data-url-svc.svg?style=shield)](https://circleci.com/gh/nhood-org/nhood-data-url-svc) [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+   [![CircleCI](https://circleci.com/gh/nhood-org/nhood-data-url-svc.svg?style=shield)](https://circleci.com/gh/nhood-org/nhood-data-url-svc) [![Version](https://img.shields.io/badge/version-0.0.2-blue.svg?maxAge=2592000)](https://github.com/nhood-org/nhood-data-url-svc/releases/tag/v0.0.2) [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 - `Data Matrix Service`: 
 
@@ -49,7 +49,7 @@ System architecture is based on containerized microservices principles. All of t
     
    Repository: https://github.com/nhood-org/nhood-data-orchestration-svc 
    
-   [![CircleCI](https://circleci.com/gh/nhood-org/nhood-data-orchestration-svc.svg?style=shield)](https://circleci.com/gh/nhood-org/nhood-data-orchestration-svc) [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+   [![CircleCI](https://circleci.com/gh/nhood-org/nhood-data-orchestration-svc.svg?style=shield)](https://circleci.com/gh/nhood-org/nhood-data-orchestration-svc) [![Version](https://img.shields.io/badge/version-0.0.1-blue.svg?maxAge=2592000)](https://github.com/nhood-org/nhood-data-orchestration-svc/releases/tag/v0.0.1) [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 - `Data Finder`: 
 
@@ -63,7 +63,7 @@ System architecture is based on containerized microservices principles. All of t
 
     Repository: https://github.com/nhood-org/nhoog-api-gateway
 
-   [![CircleCI](https://circleci.com/gh/nhood-org/nhood-api-gateway.svg?style=shield)](https://circleci.com/gh/nhood-org/nhood-api-gateway) [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+   [![CircleCI](https://circleci.com/gh/nhood-org/nhood-api-gateway.svg?style=shield)](https://circleci.com/gh/nhood-org/nhood-api-gateway) [![Version](https://img.shields.io/badge/version-0.0.1-blue.svg?maxAge=2592000)](https://github.com/nhood-org/nhood-api-gateway/releases/tag/v0.0.1) [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 - `Admin Api Gateway`: 
 
