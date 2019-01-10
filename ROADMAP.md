@@ -8,7 +8,7 @@ At the end of the road presented here a basic, simplified and even trivial imple
 
 Implementation of Data Url Service
 
-- [ ] First project configuration
+- [x] First project configuration
 - [x] Implement DataUrl data model
 - [x] Implement basic DataUrl CRUD functionalities with REST controller
 - [x] Setup CI/CD for Data Url Service
@@ -17,7 +17,7 @@ Implementation of Data Url Service
 
 Data Orchestration Service and data registration
 
-- [ ] Implement data registration within Data Orchestration Service
+- [x] Implement data registration within Data Orchestration Service
 - [ ] Setup CI/CD for Data Orchestration Service
 
 ## Phase 3: 
