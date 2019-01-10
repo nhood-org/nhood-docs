@@ -78,22 +78,18 @@ System architecture is based on containerized microservices principles. All of t
 - `Admin Service`:
 
     Spring Boot admin service
-    
-    Repository: https://github.com/nhood-org/nhood-admin
 
 - `Discovery Service`:
 
     Eureka supporting Admin and Configuration services
-    
-    Repository: https://github.com/nhood-org/nhood-discovery-svc
 
 - `Configuration Service`:
 
     Remote configuration provider
-    
-    Repository: https://github.com/nhood-org/nhood-config
 
-Other Repositories:
+Other Repositories: 
+
+- Maven repository: https://github.com/nhood-org/nhood-repository
 
 - Parent BOM: https://github.com/nhood-org/nhood-parent-bom
 
@@ -101,9 +97,7 @@ Other Repositories:
     
 - Parent Service BOM: https://github.com/nhood-org/nhood-parent-service-bom
 
-    [![CircleCI](https://circleci.com/gh/nhood-org/nhood-parent-service-bom.svg?style=shield)](https://circleci.com/gh/nhood-org/nhood-parent-service-bom) [![Version](https://img.shields.io/badge/version-0.0.3-blue.svg?maxAge=2592000)](https://github.com/nhood-org/nhood-parent-service-bom/releases/tag/v0.0.3) [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) 
-
-- Maven repository: https://github.com/nhood-org/nhood-repository
+    [![CircleCI](https://circleci.com/gh/nhood-org/nhood-parent-service-bom.svg?style=shield)](https://circleci.com/gh/nhood-org/nhood-parent-service-bom) [![Version](https://img.shields.io/badge/version-0.0.3-blue.svg?maxAge=2592000)](https://github.com/nhood-org/nhood-parent-service-bom/releases/tag/v0.0.3) [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 - Docker integration: https://github.com/nhood-org/nhood-docker-integration
 
@@ -112,7 +106,7 @@ Other Repositories:
 - Messaging testing tool: https://github.com/nhood-org/nhood-messaging-testing-tool
     
     [![CircleCI](https://circleci.com/gh/nhood-org/nhood-messaging-testing-tool.svg?style=shield)](https://circleci.com/gh/nhood-org/nhood-messaging-testing-tool) 
-    [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) 
+    [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 ## Technology
 
