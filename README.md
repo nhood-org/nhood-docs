@@ -33,7 +33,7 @@ System architecture is based on containerized microservices principles. All of t
     
    Repository: https://github.com/nhood-org/nhood-engine
    
-   [![CircleCI](https://circleci.com/gh/nhood-org/nhood-engine.svg?style=shield)](https://circleci.com/gh/nhood-org/nhood-engine) [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+   [![CircleCI](https://circleci.com/gh/nhood-org/nhood-engine.svg?style=shield)](https://circleci.com/gh/nhood-org/nhood-engine) [![Version](https://img.shields.io/badge/version-0.0.1-blue.svg?maxAge=2592000)](https://github.com/nhood-org/nhood-engine/releases/tag/v0.0.1) [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 ## Key Services
 
