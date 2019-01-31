@@ -1,4 +1,4 @@
-# nhood Engine
+# nhood
 
 ## Problem
 
@@ -24,6 +24,16 @@ The engine implementation if focused on:
 System architecture is based on containerized microservices principles. All of the components should be considered as a separate services that may consist of single or multiple instances of application container. Inter-service communication is based on a messaging/event bus. Service discovery, load balancing, container life cycle management is supported by container orchestration technology. 
 
 ![alt architecture](./images/nhood-architecture.png)
+
+## Key Libraries
+
+- `Core Engine`: 
+
+    A library with core implementation of `nhood` algorithms.
+    
+   Repository: https://github.com/nhood-org/nhood-engine
+   
+   [![CircleCI](https://circleci.com/gh/nhood-org/nhood-engine.svg?style=shield)](https://circleci.com/gh/nhood-org/nhood-engine) [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 ## Key Services
 
