@@ -116,8 +116,7 @@ Other Repositories:
     
 - Messaging testing tool: https://github.com/nhood-org/nhood-messaging-testing-tool
      
-   [![CircleCI](https://circleci.com/gh/nhood-org/nhood-messaging-testing-tool.svg?style=shield)](https://circleci.com/gh/nhood-org/nhood-messaging-testing-tool)
-   [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+   [![CircleCI](https://circleci.com/gh/nhood-org/nhood-messaging-testing-tool.svg?style=shield)](https://circleci.com/gh/nhood-org/nhood-messaging-testing-tool) [![Version](https://img.shields.io/badge/version-0.0.1-blue.svg?maxAge=2592000)](https://github.com/nhood-org/nhood-messaging-testing-tool/releases/tag/v0.0.1) [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 ## Technology
 
