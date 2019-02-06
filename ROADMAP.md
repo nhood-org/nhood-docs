@@ -44,6 +44,7 @@ Api Gateway
 Data Finder
 
 - [ ] Implement trivial resolution logic without Data Matrix Service being used
+- [ ] Implement performance testing for data finder library
 - [ ] Setup CI/CD for Data Finder
 - [ ] Integrate Data Orchestration Service with Data Finder
 
@@ -51,7 +52,7 @@ Data Finder
 
 Performance testing
 
-- [ ] Configure jMeter for performance testing
+- [ ] Configure jMeter for e2e performance testing
 - [ ] Implement test scenarios
 - [ ] Perform performance tests
 
