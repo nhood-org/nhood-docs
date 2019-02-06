@@ -111,8 +111,7 @@ Other Repositories:
 
 - Docker integration: https://github.com/nhood-org/nhood-docker-integration
 
-    [![CircleCI](https://circleci.com/gh/nhood-org/nhood-docker-integration.svg?style=shield)](https://circleci.com/gh/nhood-org/nhood-docker-integration)
-    [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) 
+    [![CircleCI](https://circleci.com/gh/nhood-org/nhood-docker-integration.svg?style=shield)](https://circleci.com/gh/nhood-org/nhood-docker-integration) [![Version](https://img.shields.io/badge/version-0.0.1-blue.svg?maxAge=2592000)](https://github.com/nhood-org/nhood-docker-integration/releases/tag/v0.0.1) [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) 
     
 - Messaging testing tool: https://github.com/nhood-org/nhood-messaging-testing-tool
      
