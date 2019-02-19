@@ -45,11 +45,15 @@ System architecture is based on containerized microservices principles. All of t
     
    Repository: https://github.com/nhood-org/nhood-data-url-svc 
 
-   [![CircleCI](https://circleci.com/gh/nhood-org/nhood-data-url-svc.svg?style=shield)](https://circleci.com/gh/nhood-org/nhood-data-url-svc) [![Version](https://img.shields.io/badge/version-0.0.2-blue.svg?maxAge=2592000)](https://github.com/nhood-org/nhood-data-url-svc/releases/tag/v0.0.2) [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+    [![CircleCI](https://circleci.com/gh/nhood-org/nhood-data-url-svc.svg?style=shield)](https://circleci.com/gh/nhood-org/nhood-data-url-svc) [![Version](https://img.shields.io/badge/version-0.0.2-blue.svg?maxAge=2592000)](https://github.com/nhood-org/nhood-data-url-svc/releases/tag/v0.0.2) [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 - `Data Matrix Service`: 
 
     Service maintaining a model of n-dimensional data grid, grouped into small and easy-to-compute data grid chunks, optimized for retrieval of data by vector elements.
+    
+   Repository: https://github.com/nhood-org/nhood-data-matrix-svc
+   
+    [![CircleCI](https://circleci.com/gh/nhood-org/nhood-data-matrix-svc.svg?style=shield)](https://circleci.com/gh/nhood-org/nhood-data-matrix-svc) [![Version](https://img.shields.io/badge/version-0.0.1-blue.svg?maxAge=2592000)](https://github.com/nhood-org/nhood-data-matrix-svc/releases/tag/v0.0.1) [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 ### Engine services
 
