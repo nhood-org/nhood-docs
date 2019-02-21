@@ -6,7 +6,7 @@ At the end of the road presented here a basic, simplified and even trivial imple
 
 ## Phase 1: 
 
-~~Implementation of Data Url Service
+~~Implementation of Data Url Service~~
 
 - [x] First project configuration
 - [x] Implement DataUrl data model
@@ -15,14 +15,14 @@ At the end of the road presented here a basic, simplified and even trivial imple
 
 ## Phase 2:
 
-~~Data Orchestration Service and data registration
+~~Data Orchestration Service and data registration~~
 
 - [x] Implement data registration within Data Orchestration Service
 - [x] Setup CI/CD for Data Orchestration Service
 
 ## Phase 3: 
 
-~~Message Bus
+~~Message Bus~~
 
 - [x] Implement event consumption for DataUrl creation in Data Url Service
 - [x] Implement event publishing for DataUrl creation in Data Orchestration Service
@@ -32,7 +32,7 @@ At the end of the road presented here a basic, simplified and even trivial imple
 
 ## Phase 4:
 
-~~Api Gateway
+~~Api Gateway~~
 
 - [x] Create Api Gateway service
 - [x] Expose data registration endpoint
