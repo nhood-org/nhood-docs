@@ -111,7 +111,7 @@ Other Repositories:
     
 - Parent Service BOM: https://github.com/nhood-org/nhood-parent-service-bom
 
-    [![CircleCI](https://circleci.com/gh/nhood-org/nhood-parent-service-bom.svg?style=shield)](https://circleci.com/gh/nhood-org/nhood-parent-service-bom) [![Version](https://img.shields.io/badge/version-0.1.0-blue.svg?maxAge=2592000)](https://github.com/nhood-org/nhood-parent-service-bom/releases/tag/v0.1.0) [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+    [![CircleCI](https://circleci.com/gh/nhood-org/nhood-parent-service-bom.svg?style=shield)](https://circleci.com/gh/nhood-org/nhood-parent-service-bom) [![Version](https://img.shields.io/badge/version-0.1.1-blue.svg?maxAge=2592000)](https://github.com/nhood-org/nhood-parent-service-bom/releases/tag/v0.1.1) [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 - Docker integration: https://github.com/nhood-org/nhood-docker-integration
 
