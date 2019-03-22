@@ -125,7 +125,7 @@ Other Repositories:
 
 Core parts of implementation are based on:
 
-- Java 11
+- Java 8/11
 - Spring Boot 2.1.x stack
 - Spring Framework 5, Spring Cloud, Project Reactor, RSocket
 - Couchbase, R2DBC
