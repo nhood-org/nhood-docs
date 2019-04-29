@@ -43,7 +43,7 @@ At the end of the road presented here a basic, simplified and even trivial imple
 
 Data Finder
 
-- [ ] Implement trivial resolution logic without Data Matrix Service being used
+- [ ] Implement resolution engine logic with in memory data matrix
 - [x] Implement performance testing for data finder library
 - [x] Implement unit testing for data finder library
 - [ ] Setup CI/CD for Data Finder
