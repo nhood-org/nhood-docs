@@ -136,6 +136,9 @@ Core parts of implementation are based on:
 
 Would you like to contribute to `nhood` project? Feel free to have a look [here](./CONTRIBUTING.md).
 
+[![GitHub issues](https://img.shields.io/github/issues/nhood-org/nhood-docs.svg)](https://github.com/nhood-org/nhood-docs/issues/)
+Feel free to look into open issues.
+
 ## Road map
 
 Road map may be found [here](./ROADMAP.md).
