@@ -43,15 +43,16 @@ At the end of the road presented here a basic, simplified and even trivial imple
 
 Data Finder
 
-- [ ] Implement resolution engine logic with in memory data matrix
+- [x] Implement resolution engine logic with in memory data matrix
 - [x] Implement performance testing for data finder library
 - [x] Implement unit testing for data finder library
+- [ ] Implement Data Finder based on engine logic
 - [ ] Setup CI/CD for Data Finder
 - [ ] Integrate Data Orchestration Service with Data Finder
 
 ## Phase 6
 
-Performance testing
+E2E Performance testing
 
 - [ ] Configure jMeter for e2e performance testing
 - [ ] Implement test scenarios
