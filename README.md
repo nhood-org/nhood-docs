@@ -7,8 +7,16 @@
 ## Use-cases
 
 1. A resolution of nearest geographical locations around the user.
-
 1. A resolution of content relevant to user preferences.
+
+### examples
+
+There is a couple of examples implemented on an engine library level as ready-to-run unit tests. You can find those in `nhood-engine-examples/nhood-engine-examples` module.
+
+Currently, the following use-cases are covered:
+
+- DataFinder is used to resolve 30 of cities closest to Cracow considering its geographical coordinates.
+- DataFinder is used to resolve a planet with the characteristics similar to the characteristics of the Earth.
 
 ## Goal
 
