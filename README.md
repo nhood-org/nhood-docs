@@ -9,7 +9,7 @@
 1. A resolution of nearest geographical locations around the user.
 1. A resolution of content relevant to user preferences.
 
-### examples
+## Use-case examples
 
 There is a couple of examples implemented on an engine library level as ready-to-run unit tests. You can find those in `nhood-engine-examples/nhood-engine-examples` module.
 
