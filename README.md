@@ -128,6 +128,10 @@ Other Repositories:
 - Messaging testing tool: https://github.com/nhood-org/nhood-messaging-testing-tool
      
    [![CircleCI](https://circleci.com/gh/nhood-org/nhood-messaging-testing-tool.svg?style=shield)](https://circleci.com/gh/nhood-org/nhood-messaging-testing-tool) [![Version](https://img.shields.io/badge/version-0.0.2-blue.svg?maxAge=2592000)](https://github.com/nhood-org/nhood-messaging-testing-tool/releases/tag/v0.0.2) [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) [![Go Report Card](https://goreportcard.com/badge/github.com/nhood-org/nhood-messaging-testing-tool)](https://goreportcard.com/report/github.com/nhood-org/nhood-messaging-testing-tool)
+   
+- Engine utils: https://github.com/nhood-org/nhood-engine-utils
+
+   [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) [![CircleCI](https://circleci.com/gh/nhood-org/nhood-engine-utils.svg?style=shield)](https://circleci.com/gh/nhood-org/nhood-engine-utils) [![Go Report Card](https://goreportcard.com/badge/github.com/nhood-org/nhood-engine-utils)](https://goreportcard.com/report/github.com/nhood-org/nhood-engine-utils)
 
 ## Technology
 
