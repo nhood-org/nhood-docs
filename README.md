@@ -131,7 +131,7 @@ Other Repositories:
    
 - Engine utils: https://github.com/nhood-org/nhood-engine-utils
 
-   [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) [![CircleCI](https://circleci.com/gh/nhood-org/nhood-engine-utils.svg?style=shield)](https://circleci.com/gh/nhood-org/nhood-engine-utils) [![Go Report Card](https://goreportcard.com/badge/github.com/nhood-org/nhood-engine-utils)](https://goreportcard.com/report/github.com/nhood-org/nhood-engine-utils)
+   [![CircleCI](https://circleci.com/gh/nhood-org/nhood-engine-utils.svg?style=shield)](https://circleci.com/gh/nhood-org/nhood-engine-utils) [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) [![Go Report Card](https://goreportcard.com/badge/github.com/nhood-org/nhood-engine-utils)](https://goreportcard.com/report/github.com/nhood-org/nhood-engine-utils)
 
 ## Technology
 
