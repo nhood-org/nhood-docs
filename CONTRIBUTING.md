@@ -6,7 +6,7 @@ Thank you for reading this guide. It means you want to help in development of `n
 
 ### By reporting issues
 
-Did you find a bug? Is there a feature you want in nhood-engine? Simply create a new issue in [nhood-org/nhood-docs](https://github.com/nhood-org/nhood-docs/issues).
+Did you find a bug? Is there a feature you want in nhood-engine? Simply create a new issue in corresponding repository.
 
 * Ensure the bug or similar feature was not already reported.
 
@@ -18,7 +18,7 @@ Did you find a bug? Is there a feature you want in nhood-engine? Simply create a
 
     * [Feature template](./templates/feature-template.md)
 
-* Be sure you are following issue naming convention: `<ISSUE-NUMBER> - <Clear description>`. Example: `NH007 - Create contribution guide`.
+* Be sure you are following issue naming with a clear description. Example: `Create contribution guide`.
 
 * Feel free to contribute in issue discussions.
 
@@ -44,7 +44,7 @@ Feel free to follow list of [Open issues](https://github.com/nhood-org/nhood-doc
         * end-to-end, when applicable
         * tests are following existing testing conventions
     
-    * Code is aligned with code style. We follow [Sun Code Conventions](https://github.com/checkstyle/checkstyle/blob/master/src/main/resources/sun_checks.xml)
+    * Code is aligned with code style. We follow [Google Code Conventions](https://github.com/nhood-org/nhood-parent-bom/blob/master/checkstyle.xml)
     
     * Code change is minimal:
         * there are no excessive / duplicated logic implementations
@@ -53,7 +53,7 @@ Feel free to follow list of [Open issues](https://github.com/nhood-org/nhood-doc
 
     * Feature is documented in a way no further explanation is required
 
-* Make sure you are following commit massage convention: `<ISSUE-NUMBER> - <Clear github-style change description>`. Example: `NHB01 - Fix invalid swagger configuration`.
+* Make sure you are following commit massage with a clear github-style change description. Example: `Fix invalid swagger configuration`.
 
 * Assign at least one of the [Code Owners](./OWNERS.md) as reviewer. 
 
