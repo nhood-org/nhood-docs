@@ -11,7 +11,7 @@
 
 ## Use-case examples
 
-There is a couple of examples implemented on an engine library level as ready-to-run unit tests. You can find those in `nhood-examples` module.
+There is a couple of examples implemented as ready-to-run unit tests. You can find those in [nhood-examples](https://github.com/nhood-org/nhood-examples) repository.
 
 Currently, the following use-cases are covered:
 
