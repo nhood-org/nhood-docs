@@ -2,7 +2,7 @@
 
 ## Problem
 
-`nhood` (for neighborhood) is a data search engine based on a shortest geometrical distances between multidimensional metadata vectors. Engine maintains an universe of data with n-dimensional vectors of metadata as data description. On search the geometrically nearest objects are resolved and returned. 
+`nhood` (for neighborhood) is a data search engine based on a shortest geometrical distances between multidimensional metadata vectors. Engine maintains an universe of data with n-dimensional vectors of metadata as data description. On search the geometrically nearest objects are resolved and returned.
 
 ## Use-cases
 
@@ -11,7 +11,7 @@
 
 ## Use-case examples
 
-There is a couple of examples implemented on an engine library level as ready-to-run unit tests. You can find those in `nhood-engine/nhood-engine-examples` module.
+There is a couple of examples implemented as ready-to-run unit tests. You can find those in [nhood-examples](https://github.com/nhood-org/nhood-examples) repository.
 
 Currently, the following use-cases are covered:
 
